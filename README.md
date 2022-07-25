@@ -28,7 +28,7 @@ npm install
 Run the Gridsome app with the command:
 
 ```bash
-npm run layer0:dev
+npm run build && npm run layer0:dev
 ```
 
 Load the site: http://127.0.0.1:3000
